@@ -5,9 +5,7 @@
 🌐 Portfolio: https://momit.dev  
 🔗 LinkedIn: https://linkedin.com/in/momit-rahman  
 
-I build clean, reliable, high-performance web applications with a strong focus on user experience, scalability, and maintainable architecture.  
-7+ years of professional experience across GPS tracking systems, mapping, digital forms, e-commerce, and internal tools.  
-Comfortable working in fully remote, cross-functional teams.
+I build clean, reliable, high-performance web applications with a strong focus on user experience, scalability, and maintainable architecture. 7+ years of professional experience across GPS tracking systems, mapping, digital forms, e-commerce, and internal tools.
 
 ---
 
